@@ -1,0 +1,103 @@
+04-01-2025 17:41:42.225 INFO: Incoming request | #2 | resource: /books | HTTP Verb GET | request #2
+04-01-2025 17:42:26.176 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:43:38.863 INFO: request #1 duration: 72687ms | request #1
+04-01-2025 17:45:11.843 INFO: Incoming request | #2 | resource: /books | HTTP Verb GET | request #2
+04-01-2025 17:45:44.073 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:47:20.320 INFO: Incoming request | #2 | resource: /books/total | HTTP Verb GET | request #2
+04-01-2025 17:47:29.165 INFO: request #1 duration: 105092ms | request #1
+04-01-2025 17:47:32.404 INFO: request #2 duration: 12084ms | request #2
+04-01-2025 17:48:11.605 INFO: Incoming request | #1 | resource: /books/total | HTTP Verb GET | request #1
+04-01-2025 17:48:13.620 INFO: request #1 duration: 2016ms | request #1
+04-01-2025 17:48:24.648 INFO: Incoming request | #2 | resource: /books/total | HTTP Verb GET | request #2
+04-01-2025 17:48:36.892 INFO: Incoming request | #3 | resource: /books | HTTP Verb GET | request #3
+04-01-2025 17:49:09.865 INFO: request #2 duration: 45216ms | request #2
+04-01-2025 17:49:39.964 INFO: request #3 duration: 63071ms | request #3
+04-01-2025 17:50:39.412 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:53:35.423 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:55:52.821 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:56:02.629 INFO: request #1 duration: 9809ms | request #1
+04-01-2025 17:56:26.395 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:57:21.980 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:57:33.838 INFO: request #1 duration: 11858ms | request #1
+04-01-2025 17:57:52.512 INFO: Incoming request | #2 | resource: /books | HTTP Verb GET | request #2
+04-01-2025 17:57:52.552 INFO: request #2 duration: 40ms | request #2
+04-01-2025 17:58:54.333 INFO: Incoming request | #3 | resource: /books | HTTP Verb GET | request #3
+04-01-2025 17:58:54.383 INFO: request #3 duration: 49ms | request #3
+04-01-2025 17:59:04.265 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 17:59:04.315 INFO: request #1 duration: 50ms | request #1
+04-01-2025 18:15:25.629 INFO: Incoming request | #1 | resource: /book | HTTP Verb GET | request #1
+04-01-2025 18:15:40.243 INFO: request #1 duration: 14614ms | request #1
+04-01-2025 18:16:49.595 INFO: Incoming request | #2 | resource: /book | HTTP Verb POST | request #2
+04-01-2025 18:16:49.684 INFO: request #2 duration: 89ms | request #2
+04-01-2025 18:17:30.641 INFO: Incoming request | #3 | resource: /book | HTTP Verb PUT | request #3
+04-01-2025 18:17:30.682 INFO: request #3 duration: 40ms | request #3
+04-01-2025 18:17:44.109 INFO: Incoming request | #4 | resource: /book | HTTP Verb PUT | request #4
+04-01-2025 18:18:05.164 INFO: Incoming request | #1 | resource: /book | HTTP Verb PUT | request #1
+04-01-2025 18:18:45.252 INFO: Incoming request | #1 | resource: /book | HTTP Verb PUT | request #1
+04-01-2025 18:20:47.781 INFO: Incoming request | #1 | resource: /book | HTTP Verb PUT | request #1
+04-01-2025 18:20:57.824 INFO: request #1 duration: 10044ms | request #1
+04-01-2025 18:27:07.811 INFO: Incoming request | #1 | resource: /book | HTTP Verb DELETE | request #1
+04-01-2025 18:27:22.402 INFO: request #1 duration: 14592ms | request #1
+04-01-2025 18:30:33.109 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:30:33.177 INFO: request #1 duration: 68ms | request #1
+04-01-2025 18:30:40.803 INFO: Incoming request | #2 | resource: /book | HTTP Verb POST | request #2
+04-01-2025 18:30:40.805 INFO: request #2 duration: 2ms | request #2
+04-01-2025 18:30:47.625 INFO: Incoming request | #3 | resource: /book | HTTP Verb DELETE | request #3
+04-01-2025 18:31:24.608 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:31:24.676 INFO: request #1 duration: 67ms | request #1
+04-01-2025 18:32:00.574 INFO: Incoming request | #1 | resource: /book | HTTP Verb DELETE | request #1
+04-01-2025 18:32:08.801 INFO: request #1 duration: 8227ms | request #1
+04-01-2025 18:32:30.475 INFO: Incoming request | #2 | resource: /book | HTTP Verb POST | request #2
+04-01-2025 18:32:30.519 INFO: request #2 duration: 43ms | request #2
+04-01-2025 18:33:17.025 INFO: Incoming request | #1 | resource: /book | HTTP Verb DELETE | request #1
+04-01-2025 18:33:25.890 INFO: request #1 duration: 8865ms | request #1
+04-01-2025 18:33:59.535 INFO: Incoming request | #2 | resource: /book | HTTP Verb POST | request #2
+04-01-2025 18:33:59.625 INFO: request #2 duration: 90ms | request #2
+04-01-2025 18:34:02.528 INFO: Incoming request | #3 | resource: /book | HTTP Verb DELETE | request #3
+04-01-2025 18:34:16.082 INFO: request #3 duration: 13554ms | request #3
+04-01-2025 18:35:03.775 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:35:03.820 INFO: request #1 duration: 46ms | request #1
+04-01-2025 18:35:07.539 INFO: Incoming request | #2 | resource: /book | HTTP Verb DELETE | request #2
+04-01-2025 18:35:55.741 INFO: Incoming request | #1 | resource: /book | HTTP Verb DELETE | request #1
+04-01-2025 18:37:07.136 INFO: Incoming request | #1 | resource: /book | HTTP Verb GET | request #1
+04-01-2025 18:37:38.342 INFO: Incoming request | #2 | resource: /books | HTTP Verb GET | request #2
+04-01-2025 18:37:58.073 INFO: Incoming request | #1 | resource: /books | HTTP Verb GET | request #1
+04-01-2025 18:38:16.024 INFO: request #1 duration: 17951ms | request #1
+04-01-2025 18:38:44.672 INFO: Incoming request | #2 | resource: /book | HTTP Verb DELETE | request #2
+04-01-2025 18:38:50.679 INFO: request #2 duration: 6006ms | request #2
+04-01-2025 18:38:54.878 INFO: Incoming request | #3 | resource: /books | HTTP Verb GET | request #3
+04-01-2025 18:40:20.029 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:40:24.115 INFO: request #1 duration: 4086ms | request #1
+04-01-2025 18:40:44.322 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:40:48.435 INFO: request #1 duration: 4113ms | request #1
+04-01-2025 18:42:08.865 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:43:23.939 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:43:42.632 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:43:42.699 INFO: request #1 duration: 67ms | request #1
+04-01-2025 18:46:06.849 INFO: Incoming request | #2 | resource: /book | HTTP Verb DELETE | request #2
+04-01-2025 18:46:59.333 INFO: request #2 duration: 52484ms | request #2
+04-01-2025 18:47:12.575 INFO: Incoming request | #3 | resource: /books | HTTP Verb GET | request #3
+04-01-2025 18:49:13.665 INFO: request #3 duration: 121090ms | request #3
+04-01-2025 18:51:11.070 INFO: Incoming request | #4 | resource: /book | HTTP Verb POST | request #4
+04-01-2025 18:51:11.159 INFO: request #4 duration: 89ms | request #4
+04-01-2025 18:51:17.365 INFO: Incoming request | #5 | resource: /book | HTTP Verb DELETE | request #5
+04-01-2025 18:51:41.161 INFO: request #5 duration: 23796ms | request #5
+04-01-2025 18:52:23.102 INFO: Incoming request | #6 | resource: /books | HTTP Verb GET | request #6
+04-01-2025 18:52:25.330 INFO: request #6 duration: 2228ms | request #6
+04-01-2025 18:52:37.516 INFO: Incoming request | #7 | resource: /book | HTTP Verb POST | request #7
+04-01-2025 18:52:37.517 INFO: request #7 duration: 1ms | request #7
+04-01-2025 18:52:46.647 INFO: Incoming request | #8 | resource: /book | HTTP Verb DELETE | request #8
+04-01-2025 18:53:22.807 INFO: Incoming request | #1 | resource: /book | HTTP Verb POST | request #1
+04-01-2025 18:53:22.878 INFO: request #1 duration: 72ms | request #1
+04-01-2025 18:53:33.230 INFO: Incoming request | #2 | resource: /book | HTTP Verb DELETE | request #2
+04-01-2025 18:53:41.321 INFO: request #2 duration: 8091ms | request #2
+04-01-2025 18:53:50.745 INFO: Incoming request | #3 | resource: /books | HTTP Verb GET | request #3
+04-01-2025 18:54:02.656 INFO: request #3 duration: 11912ms | request #3
+04-01-2025 18:55:51.974 INFO: Incoming request | #1 | resource: /book | HTTP Verb DELETE | request #1
+04-01-2025 18:56:04.325 INFO: request #1 duration: 12352ms | request #1
+04-01-2025 18:56:08.193 INFO: Incoming request | #2 | resource: /books | HTTP Verb GET | request #2
+04-01-2025 18:56:09.854 INFO: request #2 duration: 1661ms | request #2
+04-01-2025 18:58:13.080 INFO: Incoming request | #3 | resource: /books | HTTP Verb GET | request #3
+04-01-2025 18:58:13.121 INFO: request #3 duration: 39ms | request #3
+04-01-2025 18:58:24.358 INFO: Incoming request | #4 | resource: /books | HTTP Verb GET | request #4
+04-01-2025 18:58:28.059 INFO: request #4 duration: 3700ms | request #4

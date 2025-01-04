@@ -1,0 +1,56 @@
+03-01-2025 15:48:49 INFO: Creating new Book with Title [this is shahar book] | request #6 
+03-01-2025 16:26:00 ERROR: Error: no such Book with id <built-in function id> | request #2 
+03-01-2025 17:03:12 INFO: Total Books found for requested filters is 2 | request #1 
+03-01-2025 17:03:18 INFO: Total Books found for requested filters is 3 | request #2 
+03-01-2025 17:04:07 INFO: Total Books found for requested filters is 3 | request #3 
+03-01-2025 17:04:24 INFO: Total Books found for requested filters is 1 | request #4 
+03-01-2025 17:04:30 INFO: Total Books found for requested filters is 1 | request #5 
+03-01-2025 17:05:04 INFO: Total Books found for requested filters is 3 | request #6 
+03-01-2025 17:05:21 INFO: Total Books found for requested filters is 1 | request #7 
+03-01-2025 17:05:26 INFO: Total Books found for requested filters is 3 | request #8 
+03-01-2025 17:05:31 INFO: Total Books found for requested filters is 0 | request #9 
+03-01-2025 17:05:56 INFO: Total Books found for requested filters is 2 | request #10 
+03-01-2025 17:06:02 INFO: Total Books found for requested filters is 1 | request #11 
+03-01-2025 17:06:10 INFO: Total Books found for requested filters is 0 | request #12 
+03-01-2025 17:06:15 INFO: Total Books found for requested filters is 3 | request #13 
+03-01-2025 17:07:14 INFO: Total Books found for requested filters is 3 | request #14 
+03-01-2025 17:07:20 INFO: Total Books found for requested filters is 3 | request #15 
+03-01-2025 17:07:46 INFO: Total Books found for requested filters is 3 | request #1 
+03-01-2025 21:33:04 INFO: Total Books found for requested filters is 3 | request #1 
+03-01-2025 21:33:47 INFO: Total Books found for requested filters is 1 | request #2 
+03-01-2025 21:34:00 INFO: Total Books found for requested filters is 2 | request #3 
+03-01-2025 22:18:46 INFO: Total Books found for requested filters is 2 | request #1 
+04-01-2025 17:41:10 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 17:43:37 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 17:46:51 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 17:47:32 INFO: Total Books found for requested filters is 2 | request #2 
+04-01-2025 17:48:13 INFO: Total Books found for requested filters is 2 | request #1 
+04-01-2025 17:49:07 INFO: Total Books found for requested filters is 2 | request #2 
+04-01-2025 17:49:39 INFO: Total Books found for requested filters is 0 | request #3  
+04-01-2025 17:51:25 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 17:55:59 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 17:57:31 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 17:57:52 INFO: Total Books found for requested filters is 0 | request #2  
+04-01-2025 17:58:54 INFO: Total Books found for requested filters is 0 | request #3  
+04-01-2025 17:59:04 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 18:16:49 INFO: Creating new Book with Title [this is shahar book] | request #2 
+04-01-2025 18:30:33 INFO: Creating new Book with Title [this is shahar book] | request #1 
+04-01-2025 18:30:40 ERROR: Error: Book with the title [this is shahar book] already exists in the system| request #2 
+04-01-2025 18:31:24 INFO: Creating new Book with Title [this is shahar book] | request #1 
+04-01-2025 18:32:30 INFO: Creating new Book with Title [this is shahar book] | request #2 
+04-01-2025 18:33:59 INFO: Creating new Book with Title [this is shahar book] | request #2 
+04-01-2025 18:35:03 INFO: Creating new Book with Title [this is shahar book] | request #1 
+04-01-2025 18:36:17 ERROR: Error: no such Book with id 3 | request #1 
+04-01-2025 18:38:14 INFO: Total Books found for requested filters is 0 | request #1  
+04-01-2025 18:38:48 ERROR: Error: no such Book with id 3 | request #2 
+04-01-2025 18:43:42 INFO: Creating new Book with Title [this is shahar book] | request #1 
+04-01-2025 18:49:11 INFO: Total Books found for requested filters is 1 | request #3  
+04-01-2025 18:51:11 INFO: Creating new Book with Title [this is michakl book] | request #4 
+04-01-2025 18:51:39 ERROR: Error: no such Book with id 4 | request #5 
+04-01-2025 18:52:25 INFO: Total Books found for requested filters is 2 | request #6  
+04-01-2025 18:52:37 ERROR: Error: Book with the title [this is michakl book] already exists in the system| request #7 
+04-01-2025 18:53:22 INFO: Creating new Book with Title [this is michakl book] | request #1 
+04-01-2025 18:54:00 INFO: Total Books found for requested filters is 1 | request #3  
+04-01-2025 18:56:09 INFO: Total Books found for requested filters is 0 | request #2  
+04-01-2025 18:58:13 INFO: Total Books found for requested filters is 0 | request #3  
+04-01-2025 18:58:28 INFO: Total Books found for requested filters is 0 | request #4  
